@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.vscode
+.env.*
+.eslintcache
+.webpack
+.serverless
+dist
+node_modules
+*.drawio.bkp
