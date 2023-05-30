@@ -10,12 +10,16 @@ The microservice provided in this repository is implemented using AWS Lambda and
 
 More information about the extension and the microservice can be found in their respective README files located in the [extension](extension/README.md) and [microservice](microservice/README.md) directories.
 
-The card looks like this:</br>
+Below are views of the card and the card configuration
+</br>
 </br>
 
-<div style="display: flex; justify-content: space-evenly">
+<div style="display: flex; justify-content: space-evenly; width: 100%">
   <img src="extension/docs/images/person-search-empty.png" style="max-width: 45%;"/>
   <img src="extension/docs/images/person-search-results.png" style="max-width: 45%;"/>
+</div>
+<div style="display: flex; justify-content: space-evenly; width: 100%">
+  <img src="extension/docs/images/person-search-configuration.png" style="max-width: 100%;"/>
 </div>
 
 <br/>
